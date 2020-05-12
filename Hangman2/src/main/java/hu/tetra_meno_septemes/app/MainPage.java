@@ -1,5 +1,4 @@
 package hu.tetra_meno_septemes.app;
-import com.sun.net.httpserver.HttpServer;
 import hu.tetra_meno_septemes.app.config.TemplateEngineUtil;
 import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.context.WebContext;
@@ -16,9 +15,8 @@ public class MainPage extends HttpServlet {
     public void doGet(HttpServletRequest req,
                       HttpServletResponse resp) throws ServletException, IOException {
 
-       /* TemplateEngine engine = TemplateEngineUtil.getTemplateEngine(req.getServletContext());
+       TemplateEngine engine = TemplateEngineUtil.getTemplateEngine(req.getServletContext());
         WebContext context = new WebContext(req, resp, req.getServletContext());
-        engine.process("templates/index.html", context, resp.getWriter());*/
-       resp.getWriter().println("ldshflasdflsajfjsf");
+        engine.process("index.html", context, resp.getWriter());
     }
 }

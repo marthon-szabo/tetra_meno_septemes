@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="6734efd3-c8b9-47eb-a00e-a30f624e068d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Hangman2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hangman2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/WebContent/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/WebContent/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,13 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="feature/welcomePage" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1bo0AflNYze8nBaCBzIuFHxctGs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -27,7 +31,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../java/webshop-java-flipsidewebshop" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11299437" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -73,11 +77,24 @@
       <updated>1589282996195</updated>
       <workItem from="1589282999398" duration="299000" />
       <workItem from="1589284128732" duration="2379000" />
+      <workItem from="1589305386558" duration="909000" />
     </task>
+    <task id="LOCAL-00001" summary="checkout">
+      <created>1589305038173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589305038173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checkout" />
+    <option name="LAST_COMMIT_MESSAGE" value="checkout" />
   </component>
   <component name="WindowStateProjectService">
     <state x="531" y="219" key="#Project_Structure" timestamp="1589283177826">
@@ -94,26 +111,34 @@
     </state>
     <state x="572" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.801@0.23.1440.801" timestamp="1589284175936" />
     <state x="763" y="436" width="308" height="218" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589287401883" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1589287574373">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="495" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1589306049035">
+      <screen x="59" y="27" width="1307" height="741" />
+    </state>
+    <state x="495" y="155" width="424" height="491" key="FileChooserDialogImpl/59.27.1307.741@59.27.1307.741" timestamp="1589306049035" />
+    <state width="608" height="172" key="GridCell.Tab.0.bottom" timestamp="1589306294362">
+      <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
     <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1589287574373">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="608" height="172" key="GridCell.Tab.0.bottom/59.27.1307.741@59.27.1307.741" timestamp="1589306294362" />
+    <state width="608" height="172" key="GridCell.Tab.0.center" timestamp="1589306294361">
+      <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
     <state width="1874" height="274" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1589287574373">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="608" height="172" key="GridCell.Tab.0.center/59.27.1307.741@59.27.1307.741" timestamp="1589306294361" />
+    <state width="608" height="172" key="GridCell.Tab.0.left" timestamp="1589306294361">
+      <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1589286425372" />
     <state width="1874" height="274" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1589287574373">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="608" height="172" key="GridCell.Tab.0.left/59.27.1307.741@59.27.1307.741" timestamp="1589306294361" />
+    <state width="608" height="172" key="GridCell.Tab.0.right" timestamp="1589306294362">
+      <screen x="59" y="27" width="1307" height="741" />
     </state>
     <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
     <state width="1874" height="274" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1589287574373" />
+    <state width="608" height="172" key="GridCell.Tab.0.right/59.27.1307.741@59.27.1307.741" timestamp="1589306294362" />
     <state x="332" y="99" width="900" height="722" key="SettingsEditor" timestamp="1589284343783">
       <screen x="0" y="23" width="1440" height="801" />
     </state>
