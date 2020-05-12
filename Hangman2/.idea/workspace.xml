@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6734efd3-c8b9-47eb-a00e-a30f624e068d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Hangman2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/tetra_meno_septemes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/MainPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/MainPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/WebContent/WEB_INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hu/tetra_meno_septemes/app/WebContent/WEB_INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,10 +31,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../4th_week/TW/webshop-java-baby-darth-sidiousez" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11299437" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Hangman2 [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
@@ -71,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589282996195</updated>
       <workItem from="1589282999398" duration="299000" />
-      <workItem from="1589285128044" duration="1353000" />
+      <workItem from="1589284128732" duration="2379000" />
     </task>
     <servers />
   </component>
@@ -83,41 +88,35 @@
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
     <state x="531" y="219" key="#Project_Structure/0.36.1920.1044@0.36.1920.1044" timestamp="1589283177826" />
-    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589285157956">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="314" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589285929734">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589285157956" />
-    <state x="459" y="133" width="991" height="851" key="CommitChangelistDialog2" timestamp="1589286674696">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="314" y="148" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.801@0.23.1440.801" timestamp="1589285929734" />
+    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589283363906" />
+    <state x="572" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1589284175936">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="459" y="133" width="991" height="851" key="CommitChangelistDialog2/0.36.1920.1044@0.36.1920.1044" timestamp="1589286674696" />
-    <state x="743" y="316" width="424" height="486" key="FileChooserDialogImpl" timestamp="1589285364577">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state x="572" y="330" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.801@0.23.1440.801" timestamp="1589284175936" />
+    <state width="1398" height="186" key="GridCell.Tab.0.bottom" timestamp="1589286425373">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state x="743" y="316" width="424" height="486" key="FileChooserDialogImpl/0.36.1920.1044@0.36.1920.1044" timestamp="1589285364577" />
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1589286613079">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
+    <state width="1398" height="186" key="GridCell.Tab.0.center" timestamp="1589286425373">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613079" />
-    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1589286613078">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
+    <state width="1398" height="186" key="GridCell.Tab.0.left" timestamp="1589286425372">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613078" />
-    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1589286613075">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.801@0.23.1440.801" timestamp="1589286425372" />
+    <state width="1398" height="186" key="GridCell.Tab.0.right" timestamp="1589286425373">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613075" />
-    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1589286613079">
-      <screen x="0" y="36" width="1920" height="1044" />
+    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.801@0.23.1440.801" timestamp="1589286425373" />
+    <state x="332" y="99" width="900" height="722" key="SettingsEditor" timestamp="1589284343783">
+      <screen x="0" y="23" width="1440" height="801" />
     </state>
-    <state width="1874" height="274" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613079" />
-    <state x="443" y="135" width="1024" height="847" key="SettingsEditor" timestamp="1589285186277">
-      <screen x="0" y="36" width="1920" height="1044" />
-    </state>
-    <state x="443" y="135" width="1024" height="847" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1589285186277" />
-    <state x="578" y="351" width="764" height="415" key="git4idea.merge.GitPullDialog" timestamp="1589286678670">
-      <screen x="0" y="36" width="1920" height="1044" />
-    </state>
-    <state x="578" y="351" width="764" height="415" key="git4idea.merge.GitPullDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589286678670" />
+    <state x="332" y="99" width="900" height="722" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1589284343783" />
+    <state x="443" y="135" width="1024" height="847" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1589283159850" />
   </component>
 </project>

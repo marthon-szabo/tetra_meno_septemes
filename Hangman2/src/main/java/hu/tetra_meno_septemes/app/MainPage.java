@@ -15,11 +15,10 @@ public class MainPage extends HttpServlet {
 
     public void doGet(HttpServletRequest req,
                       HttpServletResponse resp) throws ServletException, IOException {
-        TemplateEngine engine = TemplateEngineUtil.getTemplateEngine(req.getServletContext());
+
+       /* TemplateEngine engine = TemplateEngineUtil.getTemplateEngine(req.getServletContext());
         WebContext context = new WebContext(req, resp, req.getServletContext());
-        engine.process("templates/index.html", context, resp.getWriter());
+        engine.process("templates/index.html", context, resp.getWriter());*/
+       resp.getWriter().println("ldshflasdflsajfjsf");
     }
-
-
-
 }
