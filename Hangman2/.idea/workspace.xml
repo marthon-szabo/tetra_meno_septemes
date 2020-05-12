@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6734efd3-c8b9-47eb-a00e-a30f624e068d" name="Default Changelist" comment="" />
+    <list default="true" id="6734efd3-c8b9-47eb-a00e-a30f624e068d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Hangman2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1bo0AflNYze8nBaCBzIuFHxctGs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,14 +25,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../4th_week/TW/webshop-java-baby-darth-sidiousez" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.11299437" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunManager">
-    <configuration name="Hangman2 [compile,jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+    <configuration name="Hangman2 [jetty:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -33,7 +45,6 @@
             </option>
             <option name="goals">
               <list>
-                <option value="compile" />
                 <option value="jetty:run" />
               </list>
             </option>
@@ -60,6 +71,7 @@
       <option name="presentableId" value="Default" />
       <updated>1589282996195</updated>
       <workItem from="1589282999398" duration="299000" />
+      <workItem from="1589285128044" duration="1353000" />
     </task>
     <servers />
   </component>
@@ -71,13 +83,37 @@
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
     <state x="531" y="219" key="#Project_Structure/0.36.1920.1044@0.36.1920.1044" timestamp="1589283177826" />
-    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589283363906">
+    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589285157956">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
-    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589283363906" />
-    <state x="443" y="135" width="1024" height="847" key="SettingsEditor" timestamp="1589283159850">
+    <state x="418" y="216" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589285157956" />
+    <state x="743" y="316" width="424" height="486" key="FileChooserDialogImpl" timestamp="1589285364577">
       <screen x="0" y="36" width="1920" height="1044" />
     </state>
-    <state x="443" y="135" width="1024" height="847" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1589283159850" />
+    <state x="743" y="316" width="424" height="486" key="FileChooserDialogImpl/0.36.1920.1044@0.36.1920.1044" timestamp="1589285364577" />
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom" timestamp="1589286613079">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.bottom/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613079" />
+    <state width="1874" height="274" key="GridCell.Tab.0.center" timestamp="1589286613078">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.center/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613078" />
+    <state width="1874" height="274" key="GridCell.Tab.0.left" timestamp="1589286613075">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.left/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613075" />
+    <state width="1874" height="274" key="GridCell.Tab.0.right" timestamp="1589286613079">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state width="1874" height="274" key="GridCell.Tab.0.right/0.36.1920.1044@0.36.1920.1044" timestamp="1589286613079" />
+    <state x="443" y="135" width="1024" height="847" key="SettingsEditor" timestamp="1589285186277">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="443" y="135" width="1024" height="847" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1589285186277" />
+    <state x="578" y="351" width="754" height="415" key="git4idea.merge.GitPullDialog" timestamp="1589286656649">
+      <screen x="0" y="36" width="1920" height="1044" />
+    </state>
+    <state x="578" y="351" width="754" height="415" key="git4idea.merge.GitPullDialog/0.36.1920.1044@0.36.1920.1044" timestamp="1589286656649" />
   </component>
 </project>
