@@ -14,6 +14,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1bo0AflNYze8nBaCBzIuFHxctGs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -119,5 +120,13 @@
     </state>
     <state x="332" y="99" width="900" height="722" key="SettingsEditor/0.23.1440.801@0.23.1440.801" timestamp="1589284343783" />
     <state x="443" y="135" width="1024" height="847" key="SettingsEditor/0.36.1920.1044@0.36.1920.1044" timestamp="1589283159850" />
+    <state x="525" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589361165954">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="525" y="347" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.801@0.23.1440.801" timestamp="1589361165954" />
+    <state x="467" y="143" key="git4idea.branch.GitSmartOperationDialog" timestamp="1589361148741">
+      <screen x="0" y="23" width="1440" height="801" />
+    </state>
+    <state x="467" y="143" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.801@0.23.1440.801" timestamp="1589361148741" />
   </component>
 </project>
